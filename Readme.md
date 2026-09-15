@@ -1,3 +1,14 @@
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://shields.io
+
+@Streamlined Designs 2026
+       
        The CEO, the Rockstar, the Machine
        A Story of Code, Chaos, and the Architecture of Memory
        
